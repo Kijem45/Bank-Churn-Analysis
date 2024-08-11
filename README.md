@@ -12,7 +12,7 @@ This project gives insights into customer churn in a bank. This information on t
 ![Bank Churn Analysis Dashboard](https://github.com/Kijem45/Bank-Churn-Analysis/assets/147368327/c4158520-dd22-4ff7-bc62-7c656fcfbdbd)
 
 ## Data Source
-I got this dataset from kaggle
+I got this dataset from kaggle.
 https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 ### Data Information
@@ -31,6 +31,5 @@ https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 
 ## Tool
-Power BI - Data cleaning and visualization
-😃
+Power BI - Data cleaning and visualization.
 
